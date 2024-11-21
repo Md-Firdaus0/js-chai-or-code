@@ -1,2 +1,2 @@
-# js-chai-or-code \n
+# js-chai-or-code 
 code repo for js
